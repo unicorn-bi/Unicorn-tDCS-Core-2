@@ -327,13 +327,13 @@ The Unicorn tDCS Core-2 device is controlled by an Smartphone App which is avail
 
 Make sure to enable Bluetooth and Location (GPS) in your smartphone settings before starting the App. If Bluetooth is not properly detected, you will get a notification within the App (see screenshot below).
 <p align="center">
-<img src="img/App_BTOff.png" alt="drawing" width="200"/> <br/> 
+<img src="img/App_BToff.png" alt="drawing" width="200"/> <br/> 
 </p>
 
 As soon as the Bluetooth is enabled and could be detected by the App, the error notification disappears and the App is searching for Unicorn tDCS Core-2 devices. Place the Unicorn tDCS Core-2 device onto the basestation as described in section [Device handling](#device-handling) and after some moments the device serial number should be added to the list **Available devices** list.
 <p align="center">
-<img src="img/App_BTOn_NoDevice.png" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="img/App_BTOn_DeviceAvailable.png" alt="drawing" width="200"/> <br/> 
+<img src="img/App_BTon_NoDevice.png" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="img/App_BTon_DeviceAvailable.png" alt="drawing" width="200"/> <br/> 
 </p>
 
 Click **Connect** to select the device and establish a connection to the Unicorn tDCS Core-2 device. Once the app is connected to the device, the device battery level is checked and updated in the battery level field. Only if the battery level is sufficient for stimulation, the **CONTINUE** button appears. Specify if you want the Unicorn tDCS Core-2 device into the **Sham Stimulation** mode, which will only fake the stimulation by ramping up and immediately ramping down at the begin and end of the stimulation. See [Sham Stimulation Details](#ShamStimulation) for details.
