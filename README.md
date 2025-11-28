@@ -303,7 +303,7 @@ To connect or disconnect the clip connector to/from the Unicorn tDCS Core-2 Elec
 
 #### Preparing Unicorn tDCS Core-2 Electrodes
 
-Stimulation site preparation is important to guarantee a low impedance. Prepare the skin underneath the Unicorn tDCS Core-2 electrodes with an alcoholic swab to get rid of any skin fat residues. Optionally, you can submerge the electrodes in saline solution and squezze it afterwards again to slightly moisten the border sponge. Insert the electrode to the cap. After applying the cap to your subject, fill the electrode reservoir with electrode gel. Make sure to have a decent amount of gel all around the surface area. This will gurarantee low stimation impedances. 
+Stimulation site preparation is important to guarantee a low impedance. Prepare the skin underneath the Unicorn tDCS Core-2 electrodes with an alcoholic swab to get rid of any skin fat residues. Optionally, you can submerge the electrodes in saline solution and squezze it afterwards again to slightly moisten the border sponge. Insert the electrode to the cap. After applying the cap to your subject, fill the electrode reservoir with electrode gel. Make sure to have a decent amount of gel all around the electrode area. This will gurarantee low stimulation impedances. 
 
 ### Turn the device on and off
 
