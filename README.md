@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/tdcs_core_2_1pc.jpg" alt="drawing" width="300"/> <br/>
+<img src="img/tdcs_core_2_1pc_web.jpg" alt="drawing" width="300"/> <br/>
 </p>
 <br>
 <div id="toc" align="center">
@@ -163,7 +163,7 @@ The Unicorn tDCS Core-2 system consists of the Unicorn tDCS Core-2 Amplifier, Un
 The Unicorn tDCS Core-2 Stimulator is the stimulation control unit. It provides a stimulation current of up to 2 mA and is controlled with a smartphone app via Bluetooth 5. 
 
 <p align="center">
-<img src="img/tdcs_core_2_2pcs.jpg" alt="drawing" width="400"/><br/>
+<img src="img/tdcs_core_2_2pcs_web.jpg" alt="drawing" width="400"/><br/>
 </p>
 
 ### Symbols
@@ -234,7 +234,7 @@ The Unicorn tDCS Core-2 features 2 electrodes (anode and cathode) for tDCS stimu
 The Unicorn tDCS Core-2 Electrodes are made of a conductive rubber for best stimulation behaviour with DC polarization effects.
 
 <p align="center">
-<img src="img/tdcs_core_2_electrodes.png" alt="drawing" width="200"/><br/>
+<img src="img/tdcs_core_2_electrodes_web.jpg" alt="drawing" width="200"/><br/>
 </p>
 
 ## Unicorn tDCS Core-2 Cap
