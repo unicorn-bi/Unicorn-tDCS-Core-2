@@ -301,6 +301,9 @@ To connect or disconnect the clip connector to/from the Unicorn tDCS Core-2 Elec
 <img src="img/unicorn_headband_8.png" alt="drawing" width="500"/><br/>
 </p>
 
+#### Preparing Unicorn tDCS Core-2 Electrodes
+
+Stimulation site preparation is important to guarantee a low impedance. Prepare the skin underneath the Unicorn tDCS Core-2 electrodes with an alcoholic swab to get rid of any skin fat residues. Optionally, you can submerge the electrodes in saline solution and squezze it afterwards again to slightly moisten the border sponge. Insert the electrode to the cap. After applying the cap to your subject, fill the electrode reservoir with electrode gel. Make sure to have a decent amount of gel all around the surface area. This will gurarantee low stimation impedances. 
 
 ### Turn the device on and off
 
@@ -351,6 +354,15 @@ Click the **START** button to start the stimulation. The stimulation button will
 <img src="img/App_Stimulation.png" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+In case of an error, you will be proceeded to the error view, which shows detailed information what caused the error and how to proceed. The following errors can occur:
+  - Lead-Off: there is no connection between the Unicorn tDCS Core-2 electrodes, either the electrode cables are not connected properly or the electrode lifted from the skin surface
+  - High-Impedance: due to a high impedance, the stimulation current can not be provided with the given compliance voltage
+  - Device connection lost
+
+<p align="center">
+<img src="img/App_LeadOff.png" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;
+<img src="img/App_HighImpedance.png" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;
+<img src="img/App_ConnectionError.png" alt="drawing" width="200"/>&</p>
 
 ### Charging the device
 
