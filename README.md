@@ -225,7 +225,7 @@ The Unicorn tDCS Core-2 features 2 electrodes (anode and cathode) for tDCS stimu
     </tr>
     <tr>
         <td>-</td>
-        <td>Stimulatin Cathode</td>
+        <td>Stimulation Cathode</td>
     </tr>
 </table>
 
