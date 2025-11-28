@@ -80,7 +80,7 @@ The operator must be familiar with the operation of the device and must operate 
 The device and its accessories must not be exposed to increased mechanical stress.
 
 **Warning:**<br>
-Each time you use the device, you must first check the device and its accessories for possible damage to connectors, sockets and cables. Check the Unicorn BCI Core-8 electrode cable connections with special care and ensure that the electrode cables have no breaks or cracks. Any cables, connectors, accessories, or other parts of the equipment must be replaced immediately if damaged or not working correctly.
+Each time you use the device, you must first check the device and its accessories for possible damage to connectors, sockets and cables. Check the Unicorn tDCS Core-2 electrode cable connections with special care and ensure that the electrode cables have no breaks or cracks. Any cables, connectors, accessories, or other parts of the equipment must be replaced immediately if damaged or not working correctly.
 
 **Warning:**<br>
 The Unicorn tDCS Core-2 is not protected against electrical defibrillation - before defibrillation, the Unicorn tDCS Core-2 Electrodes must be removed from the subject!
@@ -114,7 +114,7 @@ Unicorn tDCS Core-2 Electrode and cable lifetime depends on proper usage, carefu
 - Do not autoclave Unicorn tDCS Core-2 Cap or Unicorn tDCS Core-2 Electrodes!
 
 **Note:**<br>
-The manufacturer is responsible for the safety, performance and reliability of the Unicorn tDCS Core-2 as supplied to the customer at the time of delivery. This responsibility expires if the Unicorn BCI Core-8 is changed. Please note the following:
+The manufacturer is responsible for the safety, performance and reliability of the Unicorn tDCS Core-2 as supplied to the customer at the time of delivery. This responsibility expires if the Unicorn tDCS Core-2 is changed. Please note the following:
    - Changes to the Unicorn tDCS Core-2 must be performed by the manufacturer only, and service and repair must be performed by corresponding qualified personnel only.
    - The Unicorn tDCS Core-2 must be used according to the instructions for use.
 
@@ -354,10 +354,10 @@ Click the **START** button to start the stimulation. The stimulation button will
 
 ### Charging the device
 
-Lift the Unicorn BCI Core-8 Amplifier from the Unicorn BCI Core-8 Basestation in order to be able to access the USB connector. Insert the Unicorn USB Charging Cable to charge the device. The status LED will be turned on continously until the device is fully charged. The Status LED will be turned off if the device is fully charged.
+Lift the Unicorn BCI tDCS Core-2 Stimulator from the Unicorn BCI tDCS Core-2 Basestation in order to be able to access the USB connector. Insert the Unicorn USB Charging Cable to charge the device. The status LED will be turned on continously until the device is fully charged. The Status LED will be turned off if the device is fully charged.
 
 **Note:**<br>
-The Unicorn BCI Core-8 has a built-in Lithium-Polymer accumulator. The accumulator may be partly discharged when the system is delivered.
+The Unicorn BCI tDCS Core-2 has a built-in Lithium-Polymer accumulator. The accumulator may be partly discharged when the system is delivered.
 
 **Note:**<br>
 As long as the USB port of the Unicorn Brain Interface is connected to a working USB port of a PC, Notebook or appropriate wall adapter, the Unicorn Brain Interface can’t be turned on.
@@ -366,10 +366,10 @@ As long as the USB port of the Unicorn Brain Interface is connected to a working
 Charging an empty Unicorn battery will take about 3 hours.
 
 **Warning:**<br>
-Do not over-discharge the Unicorn BCI Core-8 battery. Over-discharging can damage the Unicorn BCI Core-8 battery or reduce the performance and life-time.
+Do not over-discharge the Unicorn BCI tDCS Core-2battery. Over-discharging can damage the Unicorn BCI tDCS Core-2 battery or reduce the performance and life-time.
 
 **Warning:**<br>
-The Unicorn BCI Core-8 cell/battery would be at an over-discharged state by its self-discharge characteristics if the cell is not used for long time. Over long storage periods, batteries should be cycled every 90 days.
+The Unicorn BCI tDCS Core-2 cell/battery would be at an over-discharged state by its self-discharge characteristics if the cell is not used for long time. Over long storage periods, batteries should be cycled every 90 days.
 
 **Warning:**<br>
 Store in a 50 % charged state. Do not store at fully charged state (4.2V) for a long period of time.
