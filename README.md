@@ -137,7 +137,7 @@ The Unicorn tDCS Core-2 must not be used in humans with pace-makers.
 The Unicorn tDCS Core-2 uses the 2.4 GHz band for wireless transmission. Ensure that enough transmission bandwidth is available in your environment, since other devices might also use the same band (e.g. WiFi or other Bluetooth devices).
 
 ## Introduction
-The Unicorn tDCS Core-2 is a consumer grade tDCS stimulator. It allows the user to 
+The Unicorn tDCS Core-2 is a consumer grade tDCS stimulator. It allows the user to control transcranial direct current stimulation via a smartphone application.
 
 ### Highlights
 - tDCS stimulation without cable connection via radio signal
