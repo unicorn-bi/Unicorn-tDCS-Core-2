@@ -256,11 +256,11 @@ The Status LED represents the device status. The following table shows available
         <th><span style="font-size: larger;">Description</span></th>
     </tr>
     <tr>
-        <td>Continously on</br>USB attached</td>
+        <td>Continuously on</br>USB attached</td>
         <td>The device is charging.</td>
     </tr>
     <tr>
-        <td>Continously off</br>USB attached</td>
+        <td>Continuously off</br>USB attached</td>
         <td>The device is fully charged.</td>
     </tr>
     <tr>
@@ -272,7 +272,7 @@ The Status LED represents the device status. The following table shows available
         <td>Device is connecting to a device.</td>
     </tr>
     <tr>
-        <td>Continously on</br>USB detached</br></td>
+        <td>Continuously on</br>USB detached</br></td>
         <td>Device is ready for stimulation.</td>
     </tr>
     <tr>
@@ -303,11 +303,11 @@ To connect or disconnect the clip connector to/from the Unicorn tDCS Core-2 Elec
 
 #### Preparing Unicorn tDCS Core-2 Electrodes
 
-Stimulation site preparation is important to guarantee a low impedance. Prepare the skin underneath the Unicorn tDCS Core-2 electrodes with an alcoholic swab to get rid of any skin fat residues. Optionally, you can submerge the electrodes in saline solution and squezze it afterwards again to slightly moisten the border sponge. Insert the electrode to the cap. After applying the cap to your subject, fill the electrode reservoir with electrode gel. Make sure to have a decent amount of gel all around the electrode area. This will gurarantee low stimulation impedances. 
+Stimulation site preparation is important to guarantee a low impedance. Prepare the skin underneath the Unicorn tDCS Core-2 electrodes with an alcoholic swab to get rid of any skin fat residues. Optionally, you can submerge the electrodes in saline solution and squeeze it afterwards again to slightly moisten the border sponge. Insert the electrode to the cap. After applying the cap to your subject, fill the electrode reservoir with electrode gel. Make sure to have a decent amount of gel all around the electrode area. This will guarantee low stimulation impedances. 
 
 ### Turn the device on and off
 
-You have to dock the Unicorn tDCS Core-2 Stimulator on the Unicorn tDCS Core-2 Basestation to turn the device on. The magnetic connector should hold the device on the Unicorn tDCS Core-2 Basestation. The satus LED should turn on and show the current device state.
+You have to dock the Unicorn tDCS Core-2 Stimulator on the Unicorn tDCS Core-2 Basestation to turn the device on. The magnetic connector should hold the device on the Unicorn tDCS Core-2 Basestation. The status LED should turn on and show the current device state.
 
 You have to remove the Unicorn tDCS Core-2 Stimulator from the Unicorn tDCS Core-2 Basestation to turn the device off.
 
@@ -320,10 +320,10 @@ Charge the device if the status LED doesn't start fading when placed on the Unic
 
 ### Transportation
 
-Remove the Unicorn tDCS Core-2 Stimlator from the Unicorn tDCS Core-2 Basestation to turn the device off. Put the device onto the Unicorn tDCS Core-2 Basestation so you can see the USB connector and the gold pins. The magnetic connector should hold the device on the Unicorn tDCS Core-2 Basestation.
+Remove the Unicorn tDCS Core-2 Stimulator from the Unicorn tDCS Core-2 Basestation to turn the device off. Put the device onto the Unicorn tDCS Core-2 Basestation so you can see the USB connector and the gold pins. The magnetic connector should hold the device on the Unicorn tDCS Core-2 Basestation.
 
 ### Unicorn tDCS Core-2 App
-The Unicorn tDCS Core-2 device is controlled by an Smartphone App which is available for Android phones. Scan the QR Code below to install the App via Google Play Store.
+The Unicorn tDCS Core-2 device is controlled by an Smartphone App which is available for Android phones (minimum requiremented version Android 14). Scan the QR Code below to install the App via Google Play Store.
 <p align="center">
 <img src="img/UnicornTDCSCoreApp_PlayStore.png" alt="drawing" width="300"/> <br/>
 </p>
@@ -333,7 +333,7 @@ Make sure to enable Bluetooth and Location (GPS) in your smartphone settings bef
 <img src="img/App_BToff.png" alt="drawing" width="200"/> <br/> 
 </p>
 
-As soon as the Bluetooth is enabled and could be detected by the App, the error notification disappears and the App is searching for Unicorn tDCS Core-2 devices. Place the Unicorn tDCS Core-2 device onto the basestation as described in section [Device handling](#device-handling) and after some moments the device serial number should be added to the list **Available devices** list.
+As soon as the Bluetooth is enabled and can be detected by the App, the error notification disappears, and the App searches for Unicorn tDCS Core-2 devices. Place the Unicorn tDCS Core-2 device onto the basestation as described in section [Device handling](#device-handling) and after some moments the device serial number should be added to the list **Available devices** list.
 <p align="center">
 <img src="img/App_BTon_NoDevice.png" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="img/App_BTon_DeviceAvailable.png" alt="drawing" width="200"/> <br/> 
@@ -349,7 +349,7 @@ Clicking the **CONTINUE** button will get you to the stimulation view. Use the *
 <img src="img/App_Ready.png" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-Click the **START** button to start the stimulation. The stimulation button will turn into a progress bar, which will decrease in size as the stimualation is ongoing to visualize the remaining stimulation duration. The stimulation duration consists of 3 parts. At the start and end of the stimulation, the stimulation current is ramping up with a rate of 1 mA / minute. The time spend for ramping up and down is not included in the configured stimulation duration setting. As a result, the Unicorn tDCS Core-2 device will stimulation with the configured stimulation current for the configured stimulation duration. See [Stimulation Details](#) for a detailed visualization.
+Click the **START** button to start the stimulation. The stimulation button will turn into a progress bar, which will decrease in size as the stimulation is ongoing to visualize the remaining stimulation duration. The stimulation duration consists of 3 parts. At the start and end of the stimulation, the stimulation current is ramping up with a rate of 1 mA / minute. The time spend for ramping up and down is not included in the configured stimulation duration setting. As a result, the Unicorn tDCS Core-2 device will stimulate with the configured stimulation current for the configured stimulation duration. See [Stimulation Details](#) for a detailed visualization.
 <p align="center">
 <img src="img/App_Stimulation.png" alt="drawing" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -366,7 +366,7 @@ In case of an error, you will be proceeded to the error view, which shows detail
 
 ### Charging the device
 
-Lift the Unicorn BCI tDCS Core-2 Stimulator from the Unicorn BCI tDCS Core-2 Basestation in order to be able to access the USB connector. Insert the Unicorn USB Charging Cable to charge the device. The status LED will be turned on continously until the device is fully charged. The Status LED will be turned off if the device is fully charged.
+Lift the Unicorn BCI tDCS Core-2 Stimulator from the Unicorn BCI tDCS Core-2 Basestation in order to be able to access the USB connector. Insert the Unicorn USB Charging Cable to charge the device. The status LED will be turned on continuously until the device is fully charged. The Status LED will be turned off if the device is fully charged.
 
 **Note:**<br>
 The Unicorn BCI tDCS Core-2 has a built-in Lithium-Polymer accumulator. The accumulator may be partly discharged when the system is delivered.
@@ -516,7 +516,7 @@ The Unicorn tDCS Core-2 can be stored at temperatures between –20° to +45° C
 Do not use the Unicorn tDCS Core-2 near a heating system or directly in the sun. During operation, the outside temperature should be between +5° Celsius and +35° Celsius and the air pressure between 700 and 1060 hPa.
 
 ## Waste disposal details
-Bring the Unicorn tDCS Core-2 to a recycling center or sent it back to the manufacturer.
+Bring the Unicorn tDCS Core-2 to a recycling center or send it back to the manufacturer.
 
 ## Warranty
 Warranty in the EU is 6 month and 30 days in other countries for the Unicorn tDCS Core-2. The Unicorn tDCS Core-2 Electrodes and the Unicorn Gel are consumables. Only use parts from g.tec to operate the Unicorn tDCS Core-2. Warranty is invalidated if anyone except a g.tec employee opens or disassembles any components of the Unicorn tDCS Core-2. Warranty only applies for properly used devices. Please note that any damage resulting from improper treatment of the system will not be covered by the warranty. This may include broken, kinked or damaged wires and cables, damaged isolators and enclosures
